@@ -5,3 +5,6 @@ Millions of patients do not always follow self-care efforts due to many reasons 
 
 ByPatient allows the health-care provider to put in information into an interactive and self-explanatory GUI. It will then send a text message to the patient's phone number with information such as instructions on taking medication, doctor notes, quick explanation
 of the drug, and and potential health risks. Compared to just verbal messages or notes written on paper which are easily forgotten and ignored, these text messages will always be available to the patient.
+
+
+An additional feature of ByPatient is it checks potential drug interactions. Both the health-care provider and patient are notified of any possible drug interactions. This could help reduce patient deaths attributed to careless mistakes regarding fatal/dangerous drug combinations.
